@@ -1,0 +1,1 @@
+import "./globals.css"; export const metadata={title:"Buscador Vectorial | Cuadros Berenguer",description:"Piloto de búsqueda semántica"}; export default function RootLayout({children}){return <html lang="es"><body>{children}</body></html>}
